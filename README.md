@@ -45,6 +45,8 @@ The following API endpoints are available:
 
 - Spring Boot 2.7.11
 - Spring Security
+- Spring MVC
+- Spring Data JPA
 - JSON Web Tokens (JWT)
 - PostgreSQL
 - Java 17
